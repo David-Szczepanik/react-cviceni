@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-cviceni/static/css/main.1a83a580.css",
+    "main.js": "/react-cviceni/static/js/main.71f95b16.js",
+    "index.html": "/react-cviceni/index.html",
+    "main.1a83a580.css.map": "/react-cviceni/static/css/main.1a83a580.css.map",
+    "main.71f95b16.js.map": "/react-cviceni/static/js/main.71f95b16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a83a580.css",
+    "static/js/main.71f95b16.js"
+  ]
+}
