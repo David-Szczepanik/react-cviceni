@@ -1,0 +1,14 @@
+{
+  "fish": [
+    {
+      "id": 1,
+      "name": "Nemo",
+      "type": "mala"
+    },
+    {
+      "id": 2,
+      "name": "Dory",
+      "type": "velka"
+    }
+  ]
+}
